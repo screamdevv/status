@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["♥ t.me/weekcats","♥ t.me/weekcats"];
+const statusMessages = ["♥ Приколы смешные","♥ t.me/weekcats"];
 
 
 let currentIndex = 0;
